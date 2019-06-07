@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab&display=swap');
+body{
+    font-family: 'Josefin Slab', serif;
+    background-color: #ffffff;
+    display: flex;
+    font-weight: 700;
+}
+.botones{
+    font-size: 40px; 
+    font-weight: 700;
+    color: #00AE68;
+    font-weight: 700;
+    text-decoration: none;
+    display: flex;
+}
+.boton{
+    justify-content: space-between;
+    
+}
